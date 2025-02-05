@@ -1,7 +1,7 @@
 # Aprendiendo a programar en C
 A continución se encuentra el trabajo práctico que realicé en la materia "Arquitectura y Organización del Computador". El mismo tiene como objetivo la programación en C. 
 
-----------------------------------------------------------------...----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Un poco de C
 
